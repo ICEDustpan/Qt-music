@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/button">
+        <file>bt_play.png</file>
+        <file>bt_stop.png</file>
+        <file>bt_quit.png</file>
+    </qresource>
+</RCC>
